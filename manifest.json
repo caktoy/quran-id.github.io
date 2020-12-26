@@ -1,6 +1,6 @@
 {
-    "name": "quran_id",
-    "short_name": "quran_id",
+    "name": "Quran ID",
+    "short_name": "Quran ID",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
